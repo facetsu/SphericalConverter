@@ -2,15 +2,6 @@
 
 A quick little Python GUI tool for converting celestial spherical coordinates (distance, azimuth, altitude) into Cartesian (x, y, z) coordinates.
 
-## Features
-
-- **Real-time Conversion**: Convert altitude/azimuth + distance into Cartesian x, y, z coordinates
-- **Conversion History**: Track all conversions in a tabular format
-- **Automatic Averaging**: Displays running averages for all columns (distance, angles, cartesian coordinates)
-- **Tabbed Interface**: Easy navigation between the converter and results history
-- **Input Validation**: Error handling for invalid numeric inputs
-- **Manual Refresh**: Manually refresh averages if needed
-
 ## How It Works
 
 The tool uses spherical coordinate transformation to convert:
