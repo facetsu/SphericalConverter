@@ -44,7 +44,7 @@ def calculate_coordinates():
 # create gui window
 root = tk.Tk()
 root.title("Alt-Az to Cartesian Converter")
-root.geometry("600x400")
+root.geometry("750x400")
 
 # create notebook (tabbed interface)
 notebook = ttk.Notebook(root)
@@ -81,8 +81,8 @@ results_table = ttk.Treeview(frame_results, columns=columns, show="headings")
 
 # set column headings and sizes
 for col in columns:
-    results_table.heading(col, text=col)
-    results_table.column(col, width=80)
+    results_table.heading(col, text=col, anchor='center')
+    results_table.column(col, width=80, anchor='center')
 
 results_table.pack(expand=True, fill="both")
 
