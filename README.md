@@ -4,16 +4,10 @@ A quick little Python GUI tool for converting celestial spherical coordinates (d
 
 ## Screenshots
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
-  <div style="text-align: center; flex: 1;">
-    <img src="img/screen1.png" width="350" alt="Converter Tab">
-    <p><strong>Converter Tab</strong><br/>Enter distance, azimuth, and altitude to convert spherical coordinates to Cartesian</p>
-  </div>
-  <div style="text-align: center; flex: 1;">
-    <img src="img/screen2.png" width="350" alt="Results History Tab">
-    <p><strong>Results History Tab</strong><br/>View all conversions and calculate averages</p>
-  </div>
-</div>
+| Converter Tab | Results History Tab |
+|---|---|
+| ![Converter Tab](img/screen1.png) | ![Results History Tab](img/screen2.png) |
+| Enter distance, azimuth, and altitude to convert spherical coordinates to Cartesian | View all conversions and calculate averages |
 
 ## How It Works
 
