@@ -72,11 +72,3 @@ x = r × sin(θ) × cos(φ)
 y = r × sin(θ) × sin(φ)
 z = r × cos(θ)
 ```
-
-## Author
-
-Brandon Erquicia
-
-## Contributing
-
-Contributions welcome! Feel free to open an issue or submit a pull request.
