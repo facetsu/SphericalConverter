@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/SphericalConverter.git
 
 Run the GUI:
 ```bash
-python celestialSphericalToCartesian.py
+python cordCalc.py
 ```
 
 ### Converter Tab
